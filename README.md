@@ -4,7 +4,7 @@ About me
 - Currently studying Master of Software Engineering at the University of Melbourne
 - Enthusiastic in Software and Website
 - Contact me via Wechat gemini_ryuu
-- Email ziyuq@student.unimelb.edu.au
+- Email ziyu303@foxmail.com
 
 <!---
 ZIYUQ/ZIYUQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
