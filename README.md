@@ -1,7 +1,7 @@
 👋 Hi, I’m Ziyu Qian. You can also call me Peter.
 -----------
 About me 
-- 🌱 I’m currently studying Master of Software Engineering at the University of Melbourne
+- Currently studying Master of Software Engineering at the University of Melbourne
 - Enthusiastic in Software and Website
 - Contact me via Wechat gemini_ryuu
 - Email ziyuq@student.unimelb.edu.au
